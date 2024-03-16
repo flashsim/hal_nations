@@ -1,4 +1,4 @@
-name: hal_gigadevice
+name: hal_nationsnations
 build:
   cmake-ext: True
   kconfig-ext: True
