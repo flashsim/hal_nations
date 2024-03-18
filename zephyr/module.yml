@@ -1,4 +1,4 @@
-name: hal_nationsnations
+name: hal_nations
 build:
   cmake-ext: True
   kconfig-ext: True
