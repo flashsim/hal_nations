@@ -63,7 +63,7 @@ extern "C" {
 
 typedef enum
 {
-    GPIO_INPUT      = 0,
+    GPIO_INPUT_MODE = 0,
     GPIO_Speed_2MHz = 1,
     GPIO_Speed_10MHz,
     GPIO_Speed_50MHz
